@@ -6,23 +6,15 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Darsh098.Darsh098&left_color=midnightblue&right_color=teal"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Darsh098.Darsh098&left_color=midnightblue&right_color=teal"  />
 
 ###
-
-<br clear="both">
 
 <h2 align="left">About me 🙋🏻‍♂️</h2>
 
 ###
 
-<div align="right">
-  <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
-</div>
+<img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
 
