@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently in my final year of master's, actively exploring job opportunities to kickstart my career.<br>🎯 My aim for 2024 is to master Web3 and excel in Full Stack Development.<br>💬 Feel free to reach out to me for discussions on .Net, Asp, C#, TypeScript, JavaScript, Next.js, and React.<br>⚡ Fun fact: Swimming is my sanctuary, offering me both peace and exhilaration with every stroke.</p>
+<p align="left">🔭 I'm currently in my final year of master's, actively exploring job opportunities to kickstart my career.<br>🎯 My aim for 2024 is to deep dive into Web3 and excel in Full Stack Development.<br>💬 Feel free to reach out to me for discussions on .Net, Asp, C#, TypeScript, JavaScript, Next.js, and React.<br>⚡ Fun fact: Swimming is my sanctuary, offering me both peace and exhilaration with every stroke.</p>
 
 ###
 
